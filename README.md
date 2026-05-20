@@ -1,5 +1,6 @@
 RENASCENT-Q Theory v9.5: Cosmological Closure
 Author: Federico Maya
+https://doi.org/10.5281/zenodo.20300497
 
 Location: San José, Costa Rica
 
